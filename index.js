@@ -1,3 +1,3 @@
 module.exports = {
-	object : require('./lib/object')
+	Object : require('./lib/object')
 };
