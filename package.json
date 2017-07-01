@@ -1,6 +1,6 @@
 {
   "name": "@ku3mich/base",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "base stuff",
   "main": "index.js",
   "directories": {
