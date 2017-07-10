@@ -21,7 +21,7 @@
   "author": "Serhii Kuzmychov <ku3mich@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "@ku3mich/mocha-misc": "github:ku3mich/mocha-misc",
+    "@ku3mich/mocha-misc": "~0.0.5",
     "mocha": "^3.4.2"
   },
   "dependencies": {
