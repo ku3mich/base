@@ -11,7 +11,7 @@ describe('prototypeChain', function () {
     const chain = Array.from(prototypeChain(C));
     chain
       .should
-      .containEql(B.prototype)
+      .contain(B.prototype)
       .have
       .length(2);
   });
@@ -20,7 +20,7 @@ describe('prototypeChain', function () {
     const chain = Array.from(prototypeChain(new C()));
     chain
       .should
-      .containEql(B.prototype)
+      .contain(B.prototype)
       .have
       .length(2);
   });

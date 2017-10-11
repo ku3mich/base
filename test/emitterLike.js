@@ -10,6 +10,6 @@ describe('emitterLike', function() {
     q.on('e', proxy);
     q.emit('e');
 
-    proxy.should.called();
+    assert(proxy.should.called);
   });
 });
