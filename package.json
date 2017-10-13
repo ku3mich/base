@@ -21,7 +21,7 @@
   "author": "Serhii Kuzmychov <ku3mich@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "@ku3mich/test": "0.0.7"
+    "@ku3mich/test": "0.0.8"
   },
   "dependencies": {
     "pipe-functions": "^1.3.0"
